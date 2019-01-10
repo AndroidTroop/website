@@ -24,7 +24,47 @@ params:
     #- Apple_Computer_Logo_rainbow
     bottomtitle: androidtroop.com
     bottomsubtitle: We beileve in quality.
-  # Customizable navbar. For a dropdown, add a "sublinks" list.
+    socialmedia:
+    - link: https://github.com/lucperkins/github-fresh
+      # Icons are from Font Awesome
+      icon: github
+    - link: https://dribbble.com/#
+      icon: dribbble
+    - link: https://facebook.com/#
+      icon: facebook
+    - link: https://twitter.com/lucperkins
+      icon: twitter
+    - link: https://bitbucket.org/#
+      icon: bitbucket
+    bulmalogo: true
+    product:
+    - text: Discover features
+      link: /
+    - text: Why choose our product?
+      link: /
+    - text: Compare features
+      link: /
+    - text: Our roadmap
+      link: /
+    - text: Request features
+      link: /
+    docs:
+    - text: Get started
+      link: /
+    - text: User guides
+      link: /
+    - text: Admin guide
+      link: /
+    - text: Developers
+      link: /
+    blogroll:
+    - text: Latest news
+      link: /
+    - text: Tech articles
+      link: /
+    - text: Video blog
+      link: /
+      # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   sidebar:
   section1:
@@ -32,4 +72,3 @@ params:
   section3:
   section4:
   footer:
-    
