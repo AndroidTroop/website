@@ -1,0 +1,35 @@
+baseURL: /
+languageCode: en-us
+title: AndroidTroop.com | Making mobile applications developent cost effective | Android Appplication | iOS Application | Hybrid Mobile Application
+theme: hugo-fresh
+
+params:
+  font:
+    name: "Open Sans"
+    sizes: [600,800]
+  hero:
+    # Main hero title
+    title: Hi there! Hope you are doing well. 
+    # Hero subtitle (optional)
+    subtitle: If you are looking for quality mobile apps, we can make them cost effective.
+    # Button text
+    buttontext: We will take your requests soon! #Get started
+    # Where the main hero button links to
+    buttonlink: "#"
+    # Hero image (from /images/___)
+    image: illustrations/worker.svg
+    # Footer logos (from /images/logos/clients/___.svg)
+    clientlogos:
+    #- Android_robot
+    #- Apple_Computer_Logo_rainbow
+    bottomtitle: androidtroop.com
+    bottomsubtitle: We beileve in quality.
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  sidebar:
+  section1:
+  section2:
+  section3:
+  section4:
+  footer:
+    
